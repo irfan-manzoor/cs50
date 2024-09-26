@@ -1,4 +1,0 @@
-Averages:
-Heart Rate: 55.50 bpm
-Glucose: 191.50 mg/dL
-Temperature: 98.47°F
