@@ -1,0 +1,21 @@
+HTML Tags Used:
+1. <header> - Header section
+2. <nav> - Navigation bar
+3. <main> - Main content area
+4. <form> - Contact form
+5. <input> - Input fields in the form
+6. <button> - Buttons for submission and reset
+7. <div> - Container for trivia questions and gallery
+8. <img> - Images in the gallery
+9. <h1>, <h2> - Headings
+10. <p> - Paragraphs
+
+CSS Properties Used:
+1. font-family - Sets the font for the page
+2. color - Text color
+3. border-bottom - Adds a bottom border to the header
+4. border-top - Adds a top border to the footer
+5. object-fit - Ensures images fit within their container
+
+JavaScript and Bootstrap Integration:
+- JavaScript is used to dynamically generate trivia questions, handle answer checking, and manage the state of the trivia game (submit/reset). Bootstrap is used for styling and responsive layout with components like cards, buttons, and navigation bar.
